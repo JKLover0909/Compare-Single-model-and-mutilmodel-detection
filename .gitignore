@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+# Cache nhãn do Ultralytics sinh ra khi huấn luyện
+*.cache
+wandb/
